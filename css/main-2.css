@@ -1,0 +1,112 @@
+body,html{
+    height: 100%;
+    margin:20px auto;
+    background-color: #235789
+}   
+
+.link{
+    text-decoration: none;
+    color: #235789;
+    padding: 10px 15px;
+    font-family: Lucida Sans;
+} 
+.link:hover{
+    background-color: #235789;
+    color: #fff;
+}
+.home{
+    width: 100%;
+    height: %;
+    background-image: url(../img/0982.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 60px 40px;
+}
+/*heading*/
+.heading-1{
+    font-family: 'Arial Black';
+    font-size: 55px;
+    color: #FBD75C;
+    margin: auto;
+}
+.heading-2{
+    font-family: Arial Black;
+    font-size: 35px;
+    color: #235789;
+    margin: auto;
+}
+.heading-3{
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #000;
+    margin: auto;
+}
+
+/**Section Content**/
+.content{
+    width: 100%;
+    min-height: 260px;
+    background-color:#f8f8f8;
+    padding: 100px 0px;
+}
+
+/**content 2**/
+.content2{
+    background: #235789;
+    width: 100%;
+    min-height: 100%;
+    padding: 20px 0px;
+    margin: 10px
+}
+.col-border{
+    min-height: 100px;
+    border: solid 1px #fff;
+    text-align: center;
+    padding:20px 0px;
+    margin: 10px
+}
+
+a {
+    text-decoration: none;
+}
+
+.dist {
+  margin-left: 7px;
+}
+.button-big {
+  font-size: 2em;
+  width: 300px;
+  text-align: center;
+  padding: 0.2em 0em 0.2em 0em;
+  display: inline-block;
+  margin-left: 20px;
+}
+/* Facebook class and animation */
+
+.facebook {
+  color: rgb(0, 15, 150);
+
+}
+/* YouTube class and animation */
+
+
+/* Instagram class and animation */
+
+.instagram {
+  color: #b95c9d;
+}
+/* link style */
+
+.facebook a {
+  color: #3B5998;
+}
+
+.instagram a {
+  color: #125688;
+}
+.facebook a:hover {
+  color: #fff;
+
+.instagram a:hover {
+  color: #fff;
+}
